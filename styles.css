@@ -223,6 +223,7 @@ body {
     box-shadow: inset 508px 0px 0px -500px #f0b429, 3px 3px 10px #d3d6d8;
 
     display: grid;
+    grid-template-columns: 1fr;
     justify-content: space-between;
 }
 
